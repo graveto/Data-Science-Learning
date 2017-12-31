@@ -1,4 +1,9 @@
 # Data-Science-Learning
 This is a place where I store information for my Data Science Learning journey. 
 
-[How to Become a Data Scientist Without a Degree](https://www.codementor.io/npostolovski/how-to-become-a-data-scientist-without-a-degree-fb8xzu3o9)
+1. [How to Become a Data Scientist Without a Degree](https://www.codementor.io/npostolovski/how-to-become-a-data-scientist-without-a-degree-fb8xzu3o9)
+2. [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+3. [Linear regression](https://www.coursera.org/learn/linear-regression-model)
+4. [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)
+5. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
+6. [Machine Learning](https://www.coursera.org/learn/machine-learning)
