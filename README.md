@@ -8,8 +8,7 @@ This is a place where I store information for my Data Science Learning journey.
 5. [Time Series Forecasting](https://www.udacity.com/course/time-series-forecasting--ud980)
 6. [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
-
-
+Interview Questions
 1. [20 Questions to Detect Fake Data Scientists
 ](https://www.kdnuggets.com/2016/01/20-questions-to-detect-fake-data-scientists.html)
 2. [109 Commonly Asked Data Science Interview Questions](https://www.springboard.com/blog/data-science-interview-questions/)
